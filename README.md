@@ -7,9 +7,9 @@ Share the source code used during production on TV or video and anyone can be vi
 <br><br>
 
 
-📺 [twitch live](http://www.twitch.tv/oyaji_dev)
+📺 [twitch live](https://www.twitch.tv/oyajidev)
 <br>
-📋 [twitter](https://twitter.com/home)
+📋 [twitter](https://twitter.com/DSomehit)
 <br>
 <!-- 🎥 [youtube]()
 <br> -->
