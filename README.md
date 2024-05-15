@@ -1,15 +1,17 @@
 
-아재_개발자(oyajiDev) 의 코드 공유용 깃허브 계정입니다.<br>
-방송 또는 영상으로 제작중 사용된 소스코드를 공유하며 누구나 열람할 수 있습니다.
+## Github Repository of somehitDev
 
-This is Twitch 아재_개발자's GitHub account for code sharing.<br>
-Share the source code used during production on TV or video and anyone can be viewed by anyone.
+Any source of repositories are freely cloned and forked.<br>
+All repositories are made by personal perpose or in live streams.
+
+모든 레포지터리의 소스는 편하게 클론 및 포크가 가능합니다.<br>
+모든 레포지터리는 개인적인 목적 및 방송중 작업된 결과물입니다.
 <br><br>
 
 
-📺 [kick live](https://kick.com/oyajidev)
+📺 [chzzk live](https://chzzk.naver.com/5ef3fa9d0023b31c2900bad50ad5bf02)
 <br>
-📋 [twitter](https://twitter.com/DSomehit)
+📋 [twitter](https://twitter.com/somehitDev)
 <br>
-<!-- 🎥 [youtube]()
-<br> -->
+🎥 [youtube](https://www.youtube.com/@somehitDev)
+<br>
